@@ -502,7 +502,10 @@ button:focus {
 }
 
 .mb-light-purple {
-    background-color: #93738c;
+    background-color: #92df88;
+}
+.mb-light-red{
+    background-color: rgb(223, 47, 47);
 }
 
 
